@@ -1,0 +1,50 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(90deg, #dfd29e, #4e6ac5);
+}
+.name {
+    font-size: 4em;
+    background: -webkit-linear-gradient(#16537c,#c5bb8b );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 0px 50px #000000;
+}
+
+.Katara {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 40px #032942;
+}
+.katara2 {
+    height: 300px;
+    width: 200px;
+}
+
+li {
+    list-style: none;
+    /* padding: 10px 30px; */
+    /* background-image: url(waterbending_symbol.png); */
+    /* background-repeat: no-repeat;
+    background-position: left center; */
+    /* background-size: 20px; */
+}
+.clipart{
+    width: 20px;
+    height: 20px;
+}
+
+h3 {
+    background-color:#5672ce;
+    background-image: linear-gradient(45deg, #3611da, #ffaf03);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
